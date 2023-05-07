@@ -1,0 +1,22 @@
+.container1 ul {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+  width: 50%;
+}
+con a {
+  text-decoration: none;
+  /* border: 1px solid;
+  padding: 4px 8px; */
+}
+.btn {
+  background-color: black;
+  color: white;
+  margin-top: 5px;
+}
+.btn:hover {
+  color: white;
+}
+ul li {
+  margin-top: 10px;
+}

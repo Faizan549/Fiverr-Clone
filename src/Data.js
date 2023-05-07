@@ -1,0 +1,48 @@
+const Data = [
+    {
+      id: 1,
+      img: "https://images.rawpixel.com/image_500/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcGQxMDYtMDM4LWNoaW0uanBn.jpg",
+      Name: "John Peter",
+      gig: "Nulla volutpat tincidunt est, id condimentum ipsum.",
+      avgReview: "5.0",
+      numberOfReview: "(10)",
+      price: "PKR 27,205",
+    },
+    {
+      id: 2,
+      img: "https://images.rawpixel.com/image_400/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjg5MmJhdGNoNS1iZWUtNjFfMi5qcGc.jpg",
+      Name: "Andrew",
+      gig: "Vivamus eget congue mauris. Integer a ultricies metus.",
+      avgReview: "5.0",
+      numberOfReview: "(4)",
+      price: "PKR 2,510",
+    },
+    {
+      id: 3,
+      img: "https://images.rawpixel.com/image_500/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L21ja2luc2V5LTQwNzQuanBn.jpg",
+      Name: "Andrew",
+      gig: "Proin ultricies erat sed nunc pellentesque, ac placerat purus laoreet.",
+      avgReview: "5.0",
+      numberOfReview: "(8)",
+      price: "PKR 2,752",
+    },
+    {
+      id: 4,
+      img: "https:images.pexels.com/photos/14487514/pexels-photo-14487514.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      Name: "Hackson",
+      gig: "Donec auctor metus id tortor fringilla, id hendrerit erat posuere.",
+      avgReview: "5.0",
+      numberOfReview: "(2)",
+      price: "PKR 3,752",
+    },
+    {
+      id: 5,
+      img: "https://images.rawpixel.com/image_400/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3Vwd2s2MTg3MjkzOS13aWtpbWVkaWEtaW1hZ2Uta293YjFiOGYuanBn.jpg",
+      Name: "Hackson",
+      gig: "Aliquam erat volutpat. Donec tristique arcu velit, in venenatis velit auctor vel.",
+      avgReview: "5.0",
+      numberOfReview: 2,
+      price: "PKR 3,152",
+    },   
+  ];
+  export default Data;
